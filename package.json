@@ -42,7 +42,7 @@
     "chosen-sprite@2x.png",
     "chosen-sprite.png"
   ],
-  "main": "chosen.jquery.js",
+  "main": "chosen.jquery.min.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/harvesthq/chosen.git"
